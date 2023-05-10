@@ -22,8 +22,7 @@
     z-index: 1;
 }
 
-#prize-pointeur
-{
+#prize-pointeur{
     position: absolute;
     left: 198px;
     top: 240px;
