@@ -12,8 +12,7 @@
 
 /* partie 1 */
 
-#canvas-container
-{
+#canvas-container{
     position: relative;
     padding-top: 45px;
 }
